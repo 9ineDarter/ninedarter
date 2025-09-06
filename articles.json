@@ -1,0 +1,10 @@
+{
+  "articles": [
+    {
+      "title": "Entrevista 1",
+      "summary": "Un resumen corto sobre la primera entrevista.",
+      "image": "articles/imagen 1.jpg",
+      "docx": "articles/entrevista 1.docx"
+    }
+  ]
+}
